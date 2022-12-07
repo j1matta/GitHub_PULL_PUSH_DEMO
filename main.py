@@ -12,6 +12,11 @@ def fun_function(i):
     print('you passed ' + 'i')
 
 
+# let's add some stuff
+def another_function():
+    print('just another function')
+
+
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
