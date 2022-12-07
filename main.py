@@ -1,6 +1,7 @@
 
 
-
+def some_other_function():
+    print('do stuff')
 
 
 def print_goodbye():
@@ -15,5 +16,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Joe')
     print_goodbye()
+    some_other_function()
 
 
