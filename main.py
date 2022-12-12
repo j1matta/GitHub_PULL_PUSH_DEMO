@@ -13,11 +13,12 @@ def one_more_function():
     print('let\'s go!')
 
 
-def strange_function():
-    print('this is a strange function by jmatta697')
+def demo_simple_function():
+    print('this is a simple function written by jmatta697')
 
 
 if __name__ == '__main__':
     print_hi('Joe')
     some_other_function()
     one_more_function()
+    demo_simple_function()
