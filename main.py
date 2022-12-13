@@ -12,6 +12,10 @@ def print_hi(name):
 def one_more_function():
     print('let\'s go!')
 
+    
+def another_function():
+    print("another function")
+
 
 def demo_simple_function():
     print('this is a simple function written by jmatta697')
